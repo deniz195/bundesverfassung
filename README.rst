@@ -1,4 +1,5 @@
-# Bundesverfassung der Schweizerischen Eidgenossenschaft - Ein iteratives Projekt
+Bundesverfassung der Schweizerischen Eidgenossenschaft - Ein iteratives Projekt
+==================================================================================
 
 Das vorliegende Repository hält die aktuell gültige Schweizer Bundesverfassung vor. 
 
