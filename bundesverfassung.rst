@@ -2026,6 +2026,27 @@ im Ausland.
 inländischen Wirtschaft. Er kann nötigenfalls vom Grundsatz der
 Wirtschaftsfreiheit abweichen.
 
+
+**Art. 101** *a* Verantwortung von Unternehmen
+''''''''''''''''''''''''''''''''''''''''''''''
+
+:sup:`1`  Der Bund trifft Massnahmen zur Stärkung der Respektierung der Menschenrechte und der Umwelt durch die Wirtschaft.
+
+:sup:`2`  Das Gesetz regelt die Pflichten der Unternehmen mit satzungsmässigem Sitz, Hauptverwaltung oder Hauptniederlassung in der Schweiz nach folgenden Grundsätzen:
+
+
+ a.
+    Die Unternehmen haben auch im Ausland die international anerkannten Menschenrechte sowie die internationalen Umweltstandards zu respektieren; sie haben dafür zu sorgen, dass die international anerkannten Menschenrechte und die internationalen Umweltstandards auch von den durch sie kontrollierten Unternehmen respektiert werden; ob ein Unternehmen ein anderes kontrolliert, bestimmt sich nach den tatsächlichen Verhältnissen; eine Kontrolle kann faktisch auch durch wirtschaftliche Machtausübung erfolgen;
+ b.
+    Die Unternehmen sind zu einer angemessenen Sorgfaltsprüfung verpflichtet; sie sind namentlich verpflichtet, die tatsächlichen und potenziellen Auswirkungen auf die international anerkannten Menschenrechte und die Umwelt zu ermitteln, geeignete Massnahmen zur Verhütung von Verletzungen international anerkannter Menschenrechte und internationaler Umweltstandards zu ergreifen, bestehende Verletzungen zu beenden und Rechenschaft über ergriffene Massnahmen abzulegen; diese Pflichten gelten in Bezug auf kontrollierte Unternehmen sowie auf sämtliche Geschäftsbeziehungen; der Umfang dieser Sorgfaltsprüfungen ist abhängig von den Risiken in den Bereichen Menschenrechte und Umwelt; bei der Regelung der Sorgfaltsprüfungspflicht nimmt der Gesetzgeber Rücksicht auf die Bedürfnisse kleiner und mittlerer Unternehmen, die geringe derartige Risiken aufweisen;
+ c.
+    Die Unternehmen haften auch für den Schaden, den durch sie kontrollierte Unternehmen aufgrund der Verletzung von international anerkannten Menschenrechten oder internationalen Umweltstandards in Ausübung ihrer geschäftlichen Verrichtung verursacht haben; sie haften dann nicht nach dieser Bestimmung, wenn sie beweisen, dass sie alle gebotene Sorgfalt gemäss Buchstabe b angewendet haben, um den Schaden zu verhüten, oder dass der Schaden auch bei Anwendung dieser Sorgfalt eingetreten wäre;
+ d.
+    Die gestützt auf die Grundsätze nach den Buchstaben a–c erlassenen Bestimmungen gelten unabhängig vom durch das internationale Privatrecht bezeichneten Recht.
+
+
+
+
 **Art. 102** Landesversorgung :sup:`\*` :sup:`1`
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
