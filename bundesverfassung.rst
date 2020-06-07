@@ -2773,6 +2773,18 @@ werden, die gegen diesen Artikel verstossen.
 
 | 
 
+
+**Art. 121** *b* Zuwanderung ohne Personenfreizügigkeit
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+:sup:`1`  Die Schweiz regelt die Zuwanderung von Ausländerinnen und Ausländern eigenständig.
+
+:sup:`2`  Es dürfen keine neuen völkerrechtlichen Verträge abgeschlossen und keine anderen neuen völkerrechtlichen Verpflichtungen eingegangen werden, welche ausländischen Staatsangehörigen eine Personenfreizügigkeit gewähren.
+
+:sup:`3`  Bestehende völkerrechtliche Verträge und andere völkerrechtliche Verpflichtungen dürfen nicht im Widerspruch zu den Absätzen 1 und 2 angepasst oder erweitert werden.
+
+
+
 10. Abschnitt: Zivilrecht, Strafrecht, Messwesen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -4587,6 +4599,15 @@ neu zu verhandeln und anzupassen.
 nach dessen Annahme durch Volk und Stände noch nicht in Kraft getreten,
 so erlässt der Bundesrat auf diesen Zeitpunkt hin die
 Ausführungsbestimmungen vorübergehend auf dem Verordnungsweg.
+
+
+*12.* Übergangsbestimmungen zu Art. 121b (Zuwanderung ohne Personenfreizügigkeit)
+
+:sup:`1`  Auf dem Verhandlungsweg ist anzustreben, dass das Abkommen vom 21. Juni 19993 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit innerhalb von zwölf Monaten nach Annahme von Artikel 121b durch Volk und Stände ausser Kraft ist.
+
+:sup:`2`  Gelingt dies nicht, so kündigt der Bundesrat das Abkommen nach Absatz 1 innert weiteren 30 Tagen.
+
+
 
 --------------
 
